@@ -29,7 +29,7 @@ async def corona(ctx):
         colour = discord.Colour.red(), 
         )
     embed.set_footer(text='RUN!Covid is coming.')
-    embed.set_author(name='vmakar0v', icon_url='https://vignette.wikia.nocookie.net/the-great-fandom-wars/images/1/1f/Makarov2.jpg/revision/latest?cb=20180701165901')
+    embed.set_author(name='Mountassir', icon_url='https://www.kofiannanfoundation.org/app/uploads/2020/03/aad20d67-2871_lores.jpg')
     embed.add_field(name = 'Country', value=Country, inline= False)
     embed.add_field(name = 'Cases', value=ppl, inline= False)
     embed.add_field(name = 'Deaths', value=Death, inline= False)
